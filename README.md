@@ -32,3 +32,5 @@ Você também pode salvar `DIRECTD_API_KEY` e `DIRECTD_BASE_URL` em **Secrets** 
 
 Sem a chave, dados fictícios de demonstração serão utilizados.
 
+Se `DIRECTD_BASE_URL` não for informado, o app utilizará `https://app.directd.com.br/api` como padrão.
+

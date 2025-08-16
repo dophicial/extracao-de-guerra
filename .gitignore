@@ -4,3 +4,5 @@ __pycache__/
 *.xlsx
 app/data/history.json
 .env
+.venv/
+.ipynb_checkpoints/
